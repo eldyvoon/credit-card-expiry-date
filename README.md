@@ -35,7 +35,7 @@ export default function App() {
 }
 ```
 
-https://codesandbox.io/s/expiry-date-1lfmm
+codesandbox: https://codesandbox.io/s/expiry-date-1lfmm
 
 source code credit:
-https://www.linkedin.com/in/nur-liyana-mohd-lazim
+https://www.linkedin.com/in/nur-liyana-mohd-lazim-220847114/
