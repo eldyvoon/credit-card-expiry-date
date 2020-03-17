@@ -1,7 +1,7 @@
 {
   "name": "credit-card-expiry-date",
   "author": "Liyana",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "scripts": {
     "start": "catalog start docs",
     "test": "jest",
